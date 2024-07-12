@@ -6,7 +6,7 @@ Reproduction of Seibu UEC-52 custom SIL package.
 
 **Note: This design was not tested with an actual Seibu arcade PCB - use it at your own risk.**
 However I had an original UEC-52 available for testing out of the arcade PCB board. If you manage to
-use it on the Arcade bord, share your results please (in Issues).
+use it on the Arcade board, share your results please (in Issues).
 
 The circuitry is based on work made by Caius as kindly shared on the following sites:
 
@@ -15,7 +15,7 @@ The circuitry is based on work made by Caius as kindly shared on the following s
   https://www.eevblog.com/forum/projects/how-to-amplify-ttl-logical-levels/
 
 The PCB design can be opened in gEDA PCB software. 
-Arduino UNO (5V) testing sketch is attached.
+Arduino UNO (5V) testing sketch is provided.
 
 BOM: <br/>
 U1, U2 : 74HC574 SO-20 <br/>
